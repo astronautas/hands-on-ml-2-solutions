@@ -1,3 +1,4 @@
 nb_black
 scikit-learn
 jupyter
+jupyterlab
